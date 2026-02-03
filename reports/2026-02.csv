@@ -1,0 +1,2 @@
+timestamp,pair,action,leverage,confidence,note,Score_ETF,Score_Stables,Score_Stress,Score_Gewichtet
+2026-02-03T21:09:15Z,BTC/CHF,hold,0,0.828014,coingecko-auto,1.000000,0.492219,0.803479,0.828014
