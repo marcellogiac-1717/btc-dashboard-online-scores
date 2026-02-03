@@ -103,7 +103,6 @@ def append_csv(path='signals.csv', row: Dict[str,Any] | None = None):
         w.writerow([
             dt.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
             'BTC/CHF','hold',0,
-            'BTC/USD','update',0,
             row['Score_Gewichtet'],
             'coingecko-auto',
             row['Score_ETF'], row['Score_Stables'], row['Score_Stress'], row['Score_Gewichtet']
