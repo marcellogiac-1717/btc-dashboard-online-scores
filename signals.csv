@@ -2,3 +2,4 @@ timestamp,pair,action,leverage,confidence,note,Score_ETF,Score_Stables,Score_Str
 2026-02-03 12:53:42,BTC/CHF,hold,0,0.815025,coingecko-auto,1.0,0.454627,0.786368,0.815025
 2026-02-03 13:50:06,BTC/CHF,hold,0,0.374872,coingecko-auto,0.272533,0.442391,0.786351,0.374872
 2026-02-03T14:19:35Z,BTC/CHF,hold,0,0.688475,coingecko-auto,0.794381,0.444063,0.786272,0.688475
+2026-02-03T15:35:53Z,BTC/CHF,hold,0,0.576405,coingecko-auto,0.605898,0.447417,0.786417,0.576405
