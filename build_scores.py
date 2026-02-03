@@ -101,7 +101,7 @@ def append_csv(path='signals.csv', row: Dict[str,Any] | None = None):
         if not exists:
             w.writerow(['timestamp','pair','action','leverage','confidence','note','Score_ETF','Score_Stables','Score_Stress','Score_Gewichtet'])
         w.writerow([
-            dt.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
+            dt.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
             'BTC/CHF','hold',0,
             row['Score_Gewichtet'],
             'coingecko-auto',
