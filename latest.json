@@ -1,9 +1,9 @@
 {
-  "utc": "2026-02-18T05:39:22Z",
+  "utc": "2026-02-18T08:02:04Z",
   "scores": {
     "Score_ETF": 0.0,
-    "Score_Stables": 0.556314,
+    "Score_Stables": 0.541694,
     "Score_Stress": 1.0,
-    "Score_Gewichtet": 0.266894
+    "Score_Gewichtet": 0.262508
   }
 }
